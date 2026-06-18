@@ -80,6 +80,7 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 | Project | Tech Stack | Impact |
 |---------|-----------|--------|
+| 🤖 **AI Agent Production-Ready** | Python · OpenAI GPT-4o · FastAPI · Docker · ReAct | 7 built-in tools · streaming API · zero-config deploy | [Repo](https://github.com/kiritreddy97-droid/ai-agent-production-ready) |
 | [CYFD Training Evaluation System](https://github.com/kiritreddy97-droid/cyfd-training-evaluation-system) | Python, SQL, Power BI, Power Automate | 33 counties, 94% completion rate |
 | [GenAI Chatbot & Summarization Tool](https://github.com/kiritreddy97-droid/genai-chatbot-summarization-tool) | Python, OpenAI API, LangChain, Node.js | 35% manual research time eliminated |
 | [Movie Recommendation Engine](https://github.com/kiritreddy97-droid/movie-recommendation-engine) | Python, MySQL, PHP, Pandas | 1K+ films, 40% faster response |

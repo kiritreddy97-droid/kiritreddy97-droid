@@ -104,7 +104,7 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** of ex
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiritreddy97-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiritreddy97-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritreddy97-droid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
@@ -127,6 +127,18 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** of ex
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Tech Stack | Impact |
+|---------|-----------|--------|
+| 🏛️ [CYFD Training Evaluation System](https://github.com/kiritreddy97-droid/cyfd-training-evaluation-system) | Python, SQL Server, Power BI | 33 counties consolidated, 94% completion rate |
+| 🤖 [GenAI Chatbot & Summarization Tool](https://github.com/kiritreddy97-droid/genai-chatbot-summarization-tool) | Python, OpenAI, LangChain, Node.js | 35% manual research time eliminated |
+| 🎬 [Movie Recommendation Engine](https://github.com/kiritreddy97-droid/movie-recommendation-engine) | Python, MySQL, PHP, Pandas | 1K+ films, 40% faster response time |
+| ⚕️ [Healthcare RPA Automation](https://github.com/kiritreddy97-droid/healthcare-rpa-automation) | Python, Selenium, REST API | $300K+ projected annual savings |
+| 📈 [Corporate Training Dashboard](https://github.com/kiritreddy97-droid/corporate-training-dashboard) | Python, Pandas, Scikit-learn | 45% reduction in reporting turnaround |
+
+---
+
 ## 💼 What I Do
 
 | Domain | Expertise |
@@ -137,16 +149,6 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** of ex
 | 🏥 Sector Experience | Government (CYFD NM), Healthcare (Vahini), Corporate (Veeras LLC) |
 | 🔬 Published Research | Blockchain Security, ML Privacy Attacks, Brain-Computer Interfaces |
 | ☁️ Cloud and GenAI | AWS Redshift/S3/Lambda, Azure Data Factory, GCP BigQuery, OpenAI API |
-
----
-
-## 📌 Highlight Projects
-
-- 🏛️ **Statewide Training Evaluation System** — 33-county Power BI pipeline for CYFD NM child welfare workforce
-- 🤖 **GenAI Chatbot and Summarization Tool** — OpenAI API + LangChain + Node.js, eliminated 35% manual research time
-- 🎬 **Movie Recommendation Engine** — IMDb/Rotten Tomatoes/Metacritic data fusion, 1K+ films analyzed
-- ⚕️ **Healthcare RPA Automation** — Full EHR-integrated RPA system projecting $300K+ annual savings
-- 📈 **Corporate Training Reporting Automation** — 45% reporting turnaround reduction via automated dashboards
 
 ---
 

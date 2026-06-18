@@ -1,13 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kirit%20Reddy%20Daida&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Program%20Evaluator%20%7C%20BI%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kirit%20Reddy%20Daida&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+6%2B+Years+Turning+Data+into+Decisions;📊+Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;🏛️+Government+%7C+Healthcare+%7C+Corporate;🤖+AI+Agent+Builder+%7C+ETL+Pipeline+Engineer;📍+Albuquerque%2C+New+Mexico)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+6%2B+Years+Turning+Data+into+Decisions;📊+Power+BI+%7C+Python+%7C+SQL+%7C+AI%2FML;🏛️+Government+%7C+Healthcare+%7C+Corporate;🤖+AI+Agent+Builder+%7C+ETL+Pipeline+Engineer;📍+Albuquerque%2C+New+Mexico+%F0%9F%8C%B5)](https://git.io/typing-svg)
+
+<!-- VISITOR COUNTER -->
+![Visitor Count](https://profile-counter.glitch.me/kiritreddy97-droid/count.svg)
 
 </div>
 
 ---
 
+<!-- SOCIAL BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirit-reddy-daida-a824b2353)
@@ -16,6 +22,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiritreddy97-droid)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiritreddy97-droid&label=Profile+Views&color=58a6ff&style=flat-square)
+&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/kiritreddy97-droid?label=Followers&style=flat-square&color=58a6ff)
 
 </div>
@@ -61,7 +68,7 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-### ☁️ Cloud & AI
+### ☁️ Cloud & AI/ML
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -69,6 +76,7 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -77,6 +85,7 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiritreddy97-droid&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritreddy97-droid&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
@@ -84,6 +93,16 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kiritreddy97-droid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiritreddy97-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -106,11 +125,25 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiritreddy97-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiritreddy97-droid/kiritreddy97-droid/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiritreddy97-droid/kiritreddy97-droid/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kiritreddy97-droid/kiritreddy97-droid/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🎮 Pac-Man Contribution Graph
+
+<div align="center">
+
+[![pacman contribution graph](https://pacman-contribution-graph.netlify.app/api?username=kiritreddy97-droid)](https://github.com/kiritreddy97-droid)
 
 </div>
 
@@ -129,9 +162,19 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 ---
 
+## 📅 GitHub Activity Graph
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=24&fontColor=58a6ff&fontAlignY=65" width="100%" />
+[![Kirit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiritreddy97-droid&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 *📍 Albuquerque, NM · Open to Data Analytics, Program Evaluation & Workforce Analytics roles — Government, Healthcare, or Corporate*
 

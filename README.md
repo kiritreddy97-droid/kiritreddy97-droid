@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kirit%20Reddy%20Daida&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+6%2B+Years+Turning+Data+into+Decisions;📊+Power+BI+%7C+Python+%7C+SQL+%7C+AI%2FML;🏛️+Government+%7C+Healthcare+%7C+Corporate;🤖+AI+Agent+Builder+%7C+ETL+Pipeline+Engineer;📍+Albuquerque%2C+New+Mexico+%F0%9F%8C%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+6%2B+Years+Turning+Data+into+Decisions;📊+Power+BI+%7C+Python+%7C+SQL+%7C+AI%2FML;🏛️+Government+%7C+Healthcare+%7C+Corporate;🤖+AI+Agent+Builder+%7C+ETL+Pipeline+Engineer;📍+Albuquerque%2C+New+Mexico+🌵)](https://git.io/typing-svg)
 
 <!-- VISITOR COUNTER -->
 ![Visitor Count](https://profile-counter.glitch.me/kiritreddy97-droid/count.svg)
@@ -139,11 +139,30 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 ---
 
-## 🎮 Pac-Man Contribution Graph
+## 🎮 Pac-Man eats my Commits!
 
 <div align="center">
 
-[![pacman contribution graph](https://pacman-contribution-graph.netlify.app/api?username=kiritreddy97-droid)](https://github.com/kiritreddy97-droid)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pizza.png" width="0" height="0"/>
+
+[![An image of @kiritreddy97droid's Holopin badges](https://holopin.me/kiritreddy97droid)](https://holopin.io/@kiritreddy97droid)
+
+</div>
+
+<div align="center">
+
+<!-- PACMAN GIF from a reliable CDN -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+</div>
+
+---
+
+## 📅 GitHub Activity Graph
+
+<div align="center">
+
+[![Kirit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiritreddy97-droid&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -159,16 +178,6 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 | 🏛️ **Sector Experience** | Government (CYFD NM) · Healthcare (Vahini) · Corporate (Veeras LLC) |
 | 📚 **Published Research** | Blockchain Security · ML Privacy Attacks · Brain-Computer Interfaces |
 | ☁️ **Cloud & GenAI** | AWS Redshift/S3/Lambda · Azure Data Factory · GCP BigQuery · OpenAI API |
-
----
-
-## 📅 GitHub Activity Graph
-
-<div align="center">
-
-[![Kirit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiritreddy97-droid&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 

@@ -46,7 +46,7 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirit-reddy-daida-a824b2353/) [![Portfolio](https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kirit-daida.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiritreddy97@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kiritreddy97) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kiritreddy97) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiritreddy97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirit-reddy-daida-a824b2353/) [![Portfolio](https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kirit-daida.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiritreddy97@gmail.com)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kiritreddy97) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirit_reddy/)
 
 </div>
 

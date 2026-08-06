@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+6%2B+Years+Turning+Data+into+Decisions;📊+Power+BI+%7C+Python+%7C+SQL+%7C+AI%2FML;🏛️+Government+%7C+Healthcare+%7C+Corporate;🤖+AI+Agent+Builder+%7C+ETL+Pipeline+Engineer;📍+Albuquerque%2C+New+Mexico+🌵)](https://git.io/typing-svg)
 
 <!-- VISITOR COUNTER -->
-![Visitor Count](https://profile-counter.glitch.me/kiritreddy97-droid/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kiritreddy97-droid.kiritreddy97-droid)
 
 </div>
 

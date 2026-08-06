@@ -151,8 +151,12 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 <div align="center">
 
-<!-- PACMAN GIF from a reliable CDN -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<!-- Pac-Man Contribution Graph: generated from scratch by scripts/generate-pacman-graph.js -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiritreddy97-droid/kiritreddy97-droid/pacman-output/pacman-contribution-graph-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiritreddy97-droid/kiritreddy97-droid/pacman-output/pacman-contribution-graph.svg"/>
+<img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/kiritreddy97-droid/kiritreddy97-droid/pacman-output/pacman-contribution-graph.svg"/>
+</picture>
 
 </div>
 

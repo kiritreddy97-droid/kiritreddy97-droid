@@ -24,6 +24,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kiritreddy97-droid&label=Profile+Views&color=58a6ff&style=flat-square)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/kiritreddy97-droid?label=Followers&style=flat-square&color=58a6ff)
+&nbsp;
+[![DOI](https://zenodo.org/badge/1273660928.svg)](https://doi.org/10.5281/zenodo.21829905)
 
 </div>
 

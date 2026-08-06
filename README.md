@@ -145,8 +145,6 @@ I'm **Kirit Reddy Daida** — a data-driven professional with **6+ years** trans
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pizza.png" width="0" height="0"/>
 
-[![An image of @kiritreddy97droid's Holopin badges](https://holopin.me/kiritreddy97droid)](https://holopin.io/@kiritreddy97droid)
-
 </div>
 
 <div align="center">

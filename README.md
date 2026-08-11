@@ -25,7 +25,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/kiritreddy97-droid?label=Followers&style=flat-square&color=58a6ff)
 &nbsp;
-[![DOI](https://zenodo.org/badge/1273660928.svg)](https://doi.org/10.5281/zenodo.21829905)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21829905.svg)](https://doi.org/10.5281/zenodo.21829905)
 
 </div>
 
